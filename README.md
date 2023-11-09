@@ -1,7 +1,7 @@
 # apache-spark-on-lambdas
 apache-spark-on-lambdas
-![Screenshot 2023-11-05 at 9 53 20 AM](https://github.com/soumilshah1995/apache-spark-on-lambdas/assets/39345855/c389e77e-4bb6-4fbe-8828-7d18b09e6d22)
 
+![Screenshot 2023-11-05 at 10 00 53 AM](https://github.com/soumilshah1995/apache-spark-on-lambdas/assets/39345855/ff1d8946-ba8a-443a-ac5a-f0ee98940907)
 
 
 # Steps 
